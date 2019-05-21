@@ -1,0 +1,2 @@
+C:\VSRepositories\individualAssignement1REPO\obj\Debug\individualAssignement1PROJ.csprojAssemblyReference.cache
+C:\VSRepositories\individualAssignement1REPO\obj\Debug\individualAssignement1PROJ.csproj.CoreCompileInputs.cache
