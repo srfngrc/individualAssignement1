@@ -7,9 +7,23 @@ using System.Windows.Forms;
 
 namespace individualAssignement1PROJ
 {
-    public class mainclass
+    public class Mainclass : Form
     {
         public void Main()
-        { }
+        {
+
+        }
+
+        private void InitializeComponent()
+        {
+            this.SuspendLayout();
+            // 
+            // Mainclass
+            // 
+            this.ClientSize = new System.Drawing.Size(424, 245);
+            this.Name = "Mainclass";
+            this.ResumeLayout(false);
+
+        }
     }
 }
