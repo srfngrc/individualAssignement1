@@ -1,2 +1,9 @@
 C:\VSRepositories\individualAssignement1REPO\obj\Debug\individualAssignement1PROJ.csprojAssemblyReference.cache
 C:\VSRepositories\individualAssignement1REPO\obj\Debug\individualAssignement1PROJ.csproj.CoreCompileInputs.cache
+C:\VSRepositories\individualAssignement1REPO\obj\Debug\individualAssignement1PROJ.Mainclass.resources
+C:\VSRepositories\individualAssignement1REPO\obj\Debug\individualAssignement1PROJ.csproj.GenerateResource.cache
+C:\VSRepositories\individualAssignement1REPO\bin\Debug\individualAssignement1PROJ.exe.config
+C:\VSRepositories\individualAssignement1REPO\bin\Debug\individualAssignement1PROJ.exe
+C:\VSRepositories\individualAssignement1REPO\bin\Debug\individualAssignement1PROJ.pdb
+C:\VSRepositories\individualAssignement1REPO\obj\Debug\individualAssignement1PROJ.exe
+C:\VSRepositories\individualAssignement1REPO\obj\Debug\individualAssignement1PROJ.pdb
